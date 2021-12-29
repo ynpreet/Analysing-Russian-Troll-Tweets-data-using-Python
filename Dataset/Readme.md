@@ -37,4 +37,5 @@ If you use this data and find anything interesting, please let us know. Send you
 The Clemson researchers wish to acknowledge the assistance of the Clemson University Social Media Listening Center and Brandon Boatwright of the University of Tennessee, Knoxville.
 
 ```
-Download dataset from here: [!Kaggle](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets)
+Download dataset from here: <a href="https://www.kaggle.com/fivethirtyeight/russian-troll-tweets" target="_blank">Kaggle</a>
+
