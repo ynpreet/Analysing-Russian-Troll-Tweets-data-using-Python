@@ -35,3 +35,6 @@ Header | Definition
 If you use this data and find anything interesting, please let us know. Send your projects to oliver.roeder@fivethirtyeight.com or @ollie.
 
 The Clemson researchers wish to acknowledge the assistance of the Clemson University Social Media Listening Center and Brandon Boatwright of the University of Tennessee, Knoxville.
+
+```
+Download dataset from here: [Kaggle](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets)
