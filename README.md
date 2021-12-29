@@ -49,7 +49,7 @@ pd.options.mode.chained_assignment = None
 </a>  
 
 <a href="https://ynpreetmehta.medium.com/">
-<img align="left" src="https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/mediumlogo/medium-seeklogo.com.svg" alt="Medium" width="25px" height='23.5' />
+<img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/medium-seeklogo.com.svg" alt="Medium" width="25px" height='23.5' />
 </a>  
   
 <!-- ![Medium](mediumlogo/medium-seeklogo.com.svg?raw=true "Title") -->
